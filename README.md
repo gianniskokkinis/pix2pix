@@ -30,7 +30,7 @@ luarocks install https://raw.githubusercontent.com/szym/display/master/display-s
 ```
 - Clone this repo:
 ```bash
-git clone git@github.com:phillipi/pix2pix.git
+git clone https://github.com/phillipi/pix2pix.git
 cd pix2pix
 ```
 - Download the dataset (e.g., [CMP Facades](http://cmp.felk.cvut.cz/~tylecr1/facade/)):
